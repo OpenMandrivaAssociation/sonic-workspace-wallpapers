@@ -1,0 +1,14 @@
+%package -n %{name}-__LNAME__
+Summary:        SonicDE __NAME__ wallpaper
+Url:		https://github.com/Sonic-DE/sonic-workspace-wallpapers
+License:	GPL
+Group:          Graphical desktop/SonicDE
+BuildArch:	noarch
+Conflicts:  plasma-__LNAME__
+
+%description -n %{name}-__LNAME__
+SonicDE __NAME__ wallpaper.
+
+%files -n %{name}-__LNAME__
+%dir %{_datadir}/wallpapers/__NAME__/
+%{_datadir}/wallpapers/__NAME__/*
