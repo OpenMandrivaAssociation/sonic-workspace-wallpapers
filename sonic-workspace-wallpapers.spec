@@ -9,7 +9,7 @@
 %define wall_list Altai Autumn BytheWater Canopee Cascade Cluster Coast ColdRipple ColorfulCups DarkestHour Elarun EveningGlow FallenLeaf Flow FlyingKonqui Grey Honeywave IceCold Kay Kite Kokkini MilkyWay Mountain Nexus Nuvole OneStandsOut Opal Orionids PastelHills Patak Path SafeLanding ScarletTree Shell summer_1am Volna
 
 Name: sonic-workspace-wallpapers
-Version:	6.6.3
+Version:	6.6.4
 Release:	%{?git:0.%{git}.}1
 URL:            https://github.com/Sonic-DE/sonic-workspace-wallpapers
 # %if 0%{?git:1}
